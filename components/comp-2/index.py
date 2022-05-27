@@ -17,3 +17,6 @@ fire = emote.fire()
 sushi = emote.sushi()
 
 
+print(fire)
+
+print(sushi)
