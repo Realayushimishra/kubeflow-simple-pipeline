@@ -1,0 +1,9 @@
+name: Emoji
+
+implementation:
+  container: 
+    image: emote-image
+    command: [
+      python,
+      index.py
+    ]
