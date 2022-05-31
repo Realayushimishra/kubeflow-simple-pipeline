@@ -2,7 +2,7 @@ From python:3.8-slim
 
 WORKDIR /dir
 
-COPY requirements.txt /dir/
+COPY components/comp-2/requirements.txt /dir/
 
 RUN pip install -r requirements.txt
 
