@@ -2,7 +2,7 @@ name: Fake
 
 implementation:
   container: 
-    image: fake-image
+    image: comp-1
     command: [
       python,
       index.py
