@@ -2,7 +2,7 @@ name: Emoji
 
 implementation:
   container: 
-    image: emote-image
+    image: comp-2
     command: [
       python,
       index.py
