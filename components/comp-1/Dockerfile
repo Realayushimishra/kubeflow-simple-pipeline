@@ -1,4 +1,4 @@
-FROM testrg1.azurecr.io/comp-1:latest
+FROM python
 
 WORKDIR /dir
 
