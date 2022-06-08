@@ -1,4 +1,4 @@
-FROM 192.168.49.1:8085/myphpapp:latest
+FROM python3:latest
 
 WORKDIR /dir
 
