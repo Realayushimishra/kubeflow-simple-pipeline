@@ -2,7 +2,7 @@ name: Fake
 
 implementation:
   container: 
-    image: comp-1
+    image: testrg1.azurecr.io/comp-1:latest
     command: [
       python,
       index.py
