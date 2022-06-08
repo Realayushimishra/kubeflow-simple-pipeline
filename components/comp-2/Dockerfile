@@ -1,4 +1,4 @@
-From python:3.8-slim
+From testrg1.azurecr.io/comp-1:latest
 
 WORKDIR /dir
 
